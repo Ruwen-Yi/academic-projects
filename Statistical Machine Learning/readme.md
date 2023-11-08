@@ -7,7 +7,7 @@ These algorithms are fundamental in the field of machine learning and can be use
 The repository provides two key machine learning algorithms:
 
 1. K-Means Clustering
-   K-Means is an unsupervised machine learning algorithm used for data clustering. It partitions data into clusters based on similarity, where each cluster represents a group of similar data points.
+   </br>K-Means is an unsupervised machine learning algorithm used for data clustering. It partitions data into clusters based on similarity, where each cluster represents a group of similar data points.
 
 2. Support Vector Machine (SVM)
-   SVM is a supervised machine learning algorithm used for classification and regression tasks. It aims to find a decision boundary that maximizes the margin between different classes in the data.
+   </br>SVM is a supervised machine learning algorithm used for classification and regression tasks. It aims to find a decision boundary that maximizes the margin between different classes in the data.
