@@ -1,5 +1,5 @@
 # Statistical Machine Learning Algorithms
-This repository contains the implementation of two popular statistical machine learning algorithms: K-Means clustering and Support Vector Machine (SVM) classification. 
+Hi, I am Ruwen. This directory contains the implementation of two popular statistical machine learning algorithms: K-Means clustering and Support Vector Machine (SVM) classification. 
 </br>
 These algorithms are fundamental in the field of machine learning and can be used for various data analysis and pattern recognition tasks.
 
